@@ -9,7 +9,9 @@ So I conducted few analysis & gathered insights
 Dataset: Forage(KPMG Virtual Internship)
 
 
-INSIGHTS:1. Purchase by Gender :- Data shows, on average female have more purchases compared to males. Females purchase 3% more than males
+INSIGHTS:
+
+1. Purchase by Gender :- Data shows, on average female have more purchases compared to males. Females purchase 3% more than males
 
 2.Industry segment analysis :- The top 3 industry sectors brings the most profits are; Financial services, Manufacturing & Health. Financial services brings almost 2M of profit
 
