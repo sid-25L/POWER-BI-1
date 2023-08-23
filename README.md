@@ -10,7 +10,6 @@ INSIGHTS:
 2.Industry segment analysis :- The top 3 industry sectors brings the most profits are; Financial services, Manufacturing & Health. Financial services brings almost 2M of profit
 3.Region analysis :- Region plays a important role in sales & customer behaviour, most of our customers are from NSW, VLC states. So customers in this states should be our priority.
 Conclusion :- 
-
 After conducting all this successful analysis,
 the conclusion was that the marketing team should target this of the customers for the growth of the company
 • Female customers
